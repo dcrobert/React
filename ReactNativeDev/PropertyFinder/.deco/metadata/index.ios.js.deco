@@ -1,0 +1,36 @@
+{
+	"liveValues": [
+		{
+			"range": {
+				"from": {
+					"line": 30,
+					"ch": 21
+				},
+				"to": {
+					"line": 30,
+					"ch": 19
+				}
+			},
+			"editWith": "colorPicker",
+			"type": "string",
+			"name": "Title Color",
+			"group": "REACT NATIVE NAVBAR"
+		},
+		{
+			"range": {
+				"from": {
+					"line": 34,
+					"ch": 25
+				},
+				"to": {
+					"line": 34,
+					"ch": 23
+				}
+			},
+			"editWith": "colorPicker",
+			"type": "string",
+			"name": "Title Color",
+			"group": "REACT NATIVE NAVBAR"
+		}
+	]
+}
